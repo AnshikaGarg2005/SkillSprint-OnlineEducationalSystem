@@ -1,0 +1,10 @@
+Amit Sharma | amit.sharma@email.com | Pass@1234
+Priya Verma | priya.verma@email.com | Secure#5678
+Rajesh Gupta | rajesh.gupta@email.com | WebDev@2024
+Neha Reddy | neha.reddy@email.com | Cyber!Secure99
+Sanjay Kumar | sanjay.kumar@email.com | DataStruct#47
+Meera Nair | meera.nair@email.com | DeepLearn@AI
+Ankit Tiwari | ankit.tiwari@email.com | Cloud#Comp35
+Ritika Bose | ritika.bose@email.com | DBManage@43
+Varun Malhotra | varun.malhotra@email.com | Python@ML78
+Sonal Kapoor | sonal.kapoor@email.com | AI_DeepNet90
