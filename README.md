@@ -7,14 +7,14 @@ Skill-Sprint is a Java-based console application simulating an online education 
 
 🚀 Features Overview
 
-👩‍🏫 Provider Module
+Provider Module
 Sign Up / Log In as a course provider.
 Upload Courses with details like course ID, name, duration, and description.
 View Uploaded Courses.
 Edit / Delete your courses.
 Track Reports: View the number of reports on each course.
 
-👨‍🎓 Customer Module
+Customer Module
 Sign Up / Log In as a customer.
 Browse All Courses uploaded by providers.
 Search Courses by keyword.
@@ -22,7 +22,7 @@ Buy Courses and store them in personal subscriptions.
 View Subscribed Courses.
 Report Courses if inappropriate or misleading.
 
-🛠️ Admin Module
+Admin Module
 Log In as a admin.
 View Provider Details: List all registered course providers.
 Delete Reported Courses: Remove courses with high report counts.
@@ -32,34 +32,8 @@ View Analytics:
   Total number of courses.
   Course reports with course name and report count.
 
+![image](https://github.com/user-attachments/assets/399afca2-b131-4a66-90ab-17386416d27f)
 
-🧱 Project Structure
-
-OnlineEducationSystem/
-├── admin/
-│   ├── Admin.java              # Admin dashboard
-│   ├── Analytics.java          # Platform statistics
-│   ├── BanProvider.java        # Ban logic for providers
-│   ├── DeleteCourse.java       # Course deletion logic
-│   ├── ProviderDetails.java    # Lists all providers
-│   ├── displayReports.java     # Shows reported courses
-│
-├── provider/
-│   └── Provider.java           # Handles provider login, uploading, editing courses
-│
-├── customer/
-│   └── Page.java               # Handles customer features (search, enroll, report)
-│
-├── common/
-│   └── Signup.java             # Handles signup/login for all roles
-│
-├── data/
-│   ├── logins.txt              # All user credentials
-│   ├── Course.txt              # All course data
-│   ├── reports.txt             # Reported course data
-│   ├── data.txt                # Course info used in report listing
-│   └── buy.txt                 # Customer course purchases
-💾 Data Storage (Text Files)
 
 logins.txt: Stores user credentials and role info.
 Course.txt: Contains all course details.
