@@ -68,9 +68,9 @@ Introduce course ratings and reviews.
 🤝Contributors
 Project developed for the Object-Oriented Programming (OOP) course.
 Developed with dedication by:
-[Dhruv Thakur]
-[Parth Gupta]
-[Anshika Garg]
-[Shreya Gupta]
+Dhruv Thakur,
+ Parth Gupta,
+ Anshika Garg,
+ Shreya Gupta,
 
 
