@@ -71,6 +71,6 @@ Developed with dedication by:
 Dhruv Thakur,
  Parth Gupta,
  Anshika Garg,
- Shreya Gupta,
+ Shreya Gupta
 
 
