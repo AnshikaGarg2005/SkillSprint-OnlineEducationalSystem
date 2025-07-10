@@ -1,0 +1,6 @@
+PROVIDER|1|karan@gmail.com|karan singh|1234567890|ba|we@1234 | BANNED
+PROVIDER|2|er@gmail.com|er|123|btech|wert | BANNED
+CUSTOMER|3|cu@gmail.com|deva|9000321||asdf
+ADMIN|1|dhruv@gmail.com|Dhruv|9123456798||abcd
+PROVIDER|5|kamal@gmail.com|Kamal raj|9412345321|Btech|qasew12 | BANNED
+CUSTOMER|6|shyam@gmail.com|Shyam singha roy|9432123411||xyzewq

@@ -1,0 +1,7 @@
+CS001|1|Advanced Java Programming|60|499.50|Master advanced Java concepts and frameworks|
+CS002|2|Data Science Fundamentals|80|599.00|Complete guide to data analysis and visualization|
+CS004|4|Cybersecurity Essentials|45|399.00|Learn to protect systems from digital attacks|
+CS005|2|Cloud Computing with AWS|70|649.50|Deploy and manage applications on AWS cloud|
+CS006|1|Database Design|35|349.99|Relational database concepts and SQL mastery|
+CS007|3|DevOps Fundamentals|65|599.00|CI/CD pipelines and containerization with Docker|
+CS010|2|we|12|12.0|qw|
