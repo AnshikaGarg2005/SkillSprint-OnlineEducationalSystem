@@ -73,3 +73,41 @@ SkillSprint-OnlineEducationalSystem/
 ├── README.md
 ├── Course.txt, logins.txt    # File I/O data
 └── mysql-connector-j-9.x.x.jar
+
+
+# 1. Clone the Repository
+git clone https://github.com/AnshikaGarg2005/SkillSprint-OnlineEducationalSystem.git
+
+# 2. Navigate
+cd SkillSprint-OnlineEducationalSystem
+
+# 3. Compile
+javac src/admin/OnlineEducationSystem.java
+
+# 4. Run
+java admin.OnlineEducationSystem
+
+
+
+🔐 Sample Login Credentials areStored in logins.txt
+
+💡 Highlights
+
+🧠 Object-Oriented Design
+🗄 Hybrid Storage (Database + Files)
+💻 Console-based & GUI elements
+📊 Admin analytics & user roles
+📁 Easily extendable architecture
+🌱 Future Enhancements
+
+🔄 Full GUI using JavaFX or Swing
+🌐 Web version using Spring Boot
+📱 Android app using Java/Kotlin
+⭐ Star-rating & feedback system
+🔐 Login encryption & validation
+📄 License
+
+This project is licensed under the MIT License
+
+<p align="center"> <img src="https://forthebadge.com/images/badges/made-with-java.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> </p> ```
+
